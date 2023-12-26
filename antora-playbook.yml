@@ -1,6 +1,5 @@
 site:
   title: Chatbot Documentation
-  start_page: chatbot-documentation::index.adoc
 
 content:
   sources:
