@@ -1,1 +1,3 @@
 == Welcome to the demo page
+
+This document now inherits the changes which are pushed into the git repo

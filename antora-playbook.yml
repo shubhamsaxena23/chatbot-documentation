@@ -1,12 +1,12 @@
 site:
   title: Chatbot Documentation
-  start_page: chatbot-documentation::index.adoc
+  start_page: chatbot-documentation:index.adoc
 
 content:
   sources:
-    - url: ./
-      branches: HEAD
+    - url: https://github.com/shubhamsaxena23/chatbot-documentation.git
       start_path: docs
+      branches: [feature/chatbot-documentation]
 
 
 ui:
