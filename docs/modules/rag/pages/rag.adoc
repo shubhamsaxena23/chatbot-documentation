@@ -1,0 +1,3 @@
+== Retrieval Augmented Generation
+
+This document summarizes the learning I acquire of the aforementioned topic

@@ -3,5 +3,6 @@ title: Chatbot Documentation
 version: '7.0'
 start_path: docs
 nav:
-- modules/ROOT/meow.adoc
+- modules/ROOT/nav.adoc
+- modules/rag/nav.adoc
 

@@ -1,0 +1,6 @@
+== Welcome to the chatbot documentation page
+
+Here you'll find all the learnings related to chatbots and theri development.
+All the learning are given specific headings which would help the user to understand the topic step by step and dive deeper
+into specific ones.
+Hope this helps :)
